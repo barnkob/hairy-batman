@@ -1,0 +1,22 @@
+{
+  "name": "barnkob",
+  "version": "0.0.1",
+  "description": "www.barnkob.com home page",
+  "main": "barnkob.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/barnkob/barnkob.git"
+  },
+  "author": "Mark Barnkob",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/barnkob/barnkob/issues"
+  },
+  "dependencies": {
+    "express": "~4.8.2",
+    "express3-handlebars": "~0.5.2"
+  }
+}
