@@ -18,3 +18,4 @@ tramp
 # flymake-mode
 *_flymake.*
  
+*.log
